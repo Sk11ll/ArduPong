@@ -75,7 +75,11 @@ The game reads analog values sent by the Arduino through the serial port.
 Make sure the correct COM port is selected in your C# code.
 
 📷 Screenshots
-(Add images here when available)
+<img width="996" height="604" alt="Screenshot 2026-01-18 180715" src="https://github.com/user-attachments/assets/46e18858-77f5-4896-bd5d-860561007a90" />
+
+
+<img width="1912" height="1077" alt="Screenshot 2026-01-18 180736" src="https://github.com/user-attachments/assets/fc95c105-b3ae-4e6a-9125-a08381b1e21f" />
+
 
 🤝 Contributing
 Contributions and suggestions are welcome.
